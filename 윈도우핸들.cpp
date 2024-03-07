@@ -1,4 +1,4 @@
-//윈도우 핸들
+//윈도우 핸들.cpp
 #include <Windows.h>
 #include <tchar.h>
 #include <locale.h> // 한글 지원

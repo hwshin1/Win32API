@@ -1,3 +1,4 @@
+//GDI°´Ã¼.cpp
 #pragma comment(linker, "/subsystem:windows")
 #include <Windows.h>
 #include <tchar.h>

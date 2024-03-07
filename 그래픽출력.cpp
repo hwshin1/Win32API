@@ -1,5 +1,5 @@
+//그래픽출력.cpp
 #pragma comment (linker, "/subsystem:windows")
-
 #include <Windows.h>
 #include <tchar.h>
 

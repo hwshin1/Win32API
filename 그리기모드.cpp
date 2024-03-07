@@ -1,5 +1,5 @@
+//그리기모드 선긋기
 #pragma comment (linker, "/subsystem:windows")
-
 #include <Windows.h>
 #include <tchar.h>
 
@@ -36,7 +36,13 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam)
 	}
 	case WM_LBUTTONUP:
 	{
+		HDC hdc = GetDC(hwnd);
 
+		MoveToEx(hdc, start.x, start.y, NULL);
+		LineTo(hdc, end.x, end.y);
+
+		ReleaseDC(hwnd, hdc);
+		ReleaseCapture();
 		return 0;
 	}
 	case WM_CREATE:
@@ -77,6 +83,5 @@ int WINAPI _tWinMain(HINSTANCE hInst, HINSTANCE hPrev, LPTSTR lpCmdLine, int nSh
 		//TranslateMessage(&msg);
 		DispatchMessage(&msg);
 	}
-
 	return 0;
 }

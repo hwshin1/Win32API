@@ -1,3 +1,4 @@
+//무효화처리.cpp
 #pragma comment (linker, "/subsystem:windows")
 #include <Windows.h>
 #include <tchar.h>

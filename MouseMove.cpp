@@ -1,3 +1,4 @@
+//마우스무브.cpp
 #include <Windows.h>
 #include <tchar.h>
 #pragma comment(linker, "/subsystem:windows")
