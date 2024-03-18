@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\bithigh\\Resource\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6CE8-2E01-4DCF-B8F1-AD35A23DB87F}|Resource\\Resource.vcxproj|C:\\Users\\hwshin\\Desktop\\bithigh\\Resource\\Resource\\\uBA54\uB274.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB5C6CE8-2E01-4DCF-B8F1-AD35A23DB87F}|Resource\\Resource.vcxproj|solutionrelative:Resource\\\uBA54\uB274.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6CE8-2E01-4DCF-B8F1-AD35A23DB87F}|Resource\\Resource.vcxproj|C:\\Users\\hwshin\\Desktop\\bithigh\\Resource\\Resource\\\uCEE8\uD2B8\uB864.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB5C6CE8-2E01-4DCF-B8F1-AD35A23DB87F}|Resource\\Resource.vcxproj|solutionrelative:Resource\\\uCEE8\uD2B8\uB864.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uBA54\uB274.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\bithigh\\Resource\\Resource\\\uBA54\uB274.cpp",
+              "RelativeDocumentMoniker": "Resource\\\uBA54\uB274.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\bithigh\\Resource\\Resource\\\uBA54\uB274.cpp",
+              "RelativeToolTip": "Resource\\\uBA54\uB274.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T05:44:34.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uCEE8\uD2B8\uB864.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\bithigh\\Resource\\Resource\\\uCEE8\uD2B8\uB864.cpp",
+              "RelativeDocumentMoniker": "Resource\\\uCEE8\uD2B8\uB864.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\bithigh\\Resource\\Resource\\\uCEE8\uD2B8\uB864.cpp",
+              "RelativeToolTip": "Resource\\\uCEE8\uD2B8\uB864.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T05:14:35.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

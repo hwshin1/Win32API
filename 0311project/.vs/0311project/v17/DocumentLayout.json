@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|solutionrelative:0311project\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|solutionrelative:0311project\\handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|solutionrelative:0311project\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|solutionrelative:0311project\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|solutionrelative:0311project\\handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084BF389-1438-4AF9-BAFF-A93B85723A0A}|0311project\\0311project.vcxproj|solutionrelative:0311project\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "std.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\std.h",
+              "RelativeDocumentMoniker": "0311project\\std.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\std.h",
+              "RelativeToolTip": "0311project\\std.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T12:38:27.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "handler.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\handler.h",
+              "RelativeDocumentMoniker": "0311project\\handler.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\handler.h",
+              "RelativeToolTip": "0311project\\handler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T12:38:21.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "control.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\control.h",
+              "RelativeDocumentMoniker": "0311project\\control.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\control.h",
+              "RelativeToolTip": "0311project\\control.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T12:38:20.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "control.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\control.cpp",
+              "RelativeDocumentMoniker": "0311project\\control.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\control.cpp",
+              "RelativeToolTip": "0311project\\control.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T12:38:19.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "handler.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\handler.cpp",
+              "RelativeDocumentMoniker": "0311project\\handler.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\handler.cpp",
+              "RelativeToolTip": "0311project\\handler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T12:38:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "start.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\start.cpp",
+              "RelativeDocumentMoniker": "0311project\\start.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\bithigh\\0311project\\0311project\\start.cpp",
+              "RelativeToolTip": "0311project\\start.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T10:54:32.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
